@@ -1,0 +1,24 @@
+{
+  "plugins": [
+    {
+      "name": "QQ音乐",
+      "url": "https://source.shiqianjiang.cn/script/mf/tx.js?key=CERU_KEY-C7A3143B-ECA9-4B2E-A710-BEFD780376A2.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "酷狗音乐",
+      "url": "https://source.shiqianjiang.cn/script/mf/kg.js?key=CERU_KEY-C7A3143B-ECA9-4B2E-A710-BEFD780376A2.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "酷我音乐",
+      "url": "https://source.shiqianjiang.cn/script/mf/kw.js?key=CERU_KEY-C7A3143B-ECA9-4B2E-A710-BEFD780376A2.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "网易云音乐",
+      "url": "https://source.shiqianjiang.cn/script/mf/wy.js?key=CERU_KEY-C7A3143B-ECA9-4B2E-A710-BEFD780376A2.js",
+      "version": "0.1.0"
+    }
+  ]
+}
